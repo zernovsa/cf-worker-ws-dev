@@ -1,0 +1,12 @@
+name = "cf-worker-ws-dev"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+# node_compat = true
+workers_dev = true
+
+[vars]
+# PROXYIP = "211.230.110.231:50008"
+UUID = "5da2003b-e774-46e8-9273-ba2eb5a3a0ea"
+# TROJAN_PASSWORD = "your-trojan-password"  # Optional: If not set, UUID will be used as password
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
